@@ -1,3 +1,5 @@
+Creando un chat en angular con AngularFire componentes de Bootstrap y demas por que puedo y quiero 
+
 # Firechat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
